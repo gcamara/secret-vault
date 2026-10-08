@@ -1,0 +1,6 @@
+{
+  "name": "secret-vault",
+  "owner": { "name": "Gabriel Camara", "url": "https://github.com/gcamara" },
+  "description": "Paste API keys into a private modal; they go straight to the target file and never into the conversation.",
+  "plugins": [{ "name": "secret-vault", "source": "./" }]
+}

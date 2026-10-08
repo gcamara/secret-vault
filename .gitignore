@@ -1,0 +1,4 @@
+# Written by the engine on every load; regenerated per build.
+.claude-plugin/types/
+tsconfig.json
+node_modules/

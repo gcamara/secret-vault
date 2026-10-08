@@ -1,0 +1,11 @@
+{
+  "name": "secret-vault",
+  "version": "0.1.0",
+  "description": "Collects API keys and other secrets in a private modal and writes them straight to their target file, redacting them from the session.",
+  "author": { "name": "Gabriel Camara", "url": "https://github.com/gcamara" },
+  "homepage": "https://github.com/gcamara/secret-vault",
+  "repository": "https://github.com/gcamara/secret-vault",
+  "license": "MIT",
+  "keywords": ["secrets", "api-keys", "env", "redaction", "security"],
+  "types": "./types/index.d.ts"
+}
